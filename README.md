@@ -9,8 +9,14 @@ Metadata for the Senator Howard Baker Speeches and Remarks, 1966-1985 collection
 ```
 |-- cleaned_data
     |-- modsxml
-        |-- 0012_000101_000000_000.xml 
+        |-- 0012_000159_000001_0001.xml
+	|-- 0012_000159_000001_0002.xml
+	|-- 0012_000159_000001_0003.xml
         |-- etc. etc.
+	|-- 012_003587_000001_0001.xml
+	|-- 012_003587_000001_0002.xml
+	|-- 012_003587_000001_0003.xml
+	|-- etc. etc.
     |-- remediation_files
         |-- final_cleaned.csv
         |-- final_export_of_project.openrefine.tar.gz
