@@ -15,13 +15,13 @@
 <mods>
 <identifier type="local">{{cells["identifier_adminDB"].value}}</identifier>
 {{if(isBlank(cells["title"].value),'', '<titleInfo><title>' + cells['title'].value + '</title></titleInfo>')}}
-{{if(isBlank(cells["title_supplied"].value),'', '<titleInfo supplied="yes"><title>' + cells['title'].value + '</title></titleInfo>')}}
+{{if(isBlank(cells["title_supplied"].value),'', '<titleInfo supplied="yes"><title>' + cells['title_supplied'].value + '</title></titleInfo>')}}
 <abstract>{{cells['abstract'].value}}</abstract>
-{{if(isBlank(cells['date_of_speech'].value), '', '<originInfo>')}}
-{{if(isBlank(cells['date_of_speech'].value), '', '<dateCreated>' + cells['date_of_speech'].value + '</dateCreated>') + if(isBlank(cells['date_of_speech_edtf'].value), '', '<dateCreated encoding="edtf" keyDate="yes">' + cells['date_of_speech_edtf'].value + '</dateCreated>')}}
-{{if(isBlank(cells['date_approximate'].value), '', '<dateCreated qualifier="approximate">' + cells['date_appproximate'].value + '</dateCreated>') + if(isBlank(cells['date_approximate_edtf'].value), '', '<dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">' + cells['date_approximate_edtf'].value + '</dateCreated>')}} 
+<originInfo>
+{{if(isBlank(cells['date_of_speech'].value), '', '<dateCreated>' + cells['date_of_speech'].value + '</dateCreated><dateCreated encoding="edtf" keyDate="yes">' + cells['date_of_speech_edtf'].value + '</dateCreated>')}}
+{{if(isBlank(cells['date_approximate_edtf'].value), '', '<dateCreated qualifier="approximate">' + cells['date_appproximate'].value + '</dateCreated><dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">' + cells['date_approximate_edtf'].value + '</dateCreated>')}} 
 {{if(isBlank(cells['location_of_speech'].value), '', '<place><placeTerm' + if(isBlank(cells['location_URI'].value), '', ' valueURI="' + cells['location_URI'].value + '"') + '>' + cells['location_of_speech'].value + '</placeTerm></place>')}}
-{{if(isBlank(cells['date_of_speech', 'location_of_speech'].value), '', '</originInfo>')}}
+</originInfo>
 {{'<physicalDescription>' + '<extent>' + cells['extent'].value + '</extent><form authority="aat" valueURI="' + cells['form_URI'].value + '">' + cells['form'].value + '</form>' + '<internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>'}}
 {{if(isBlank(cells['subject_topic_LCSH'].value), '', '<subject authority="lcsh" valueURI="' + cells['LCSH_URI'].value + '"><topic>' + cells['subject_topic_LCSH'].value + '</topic></subject>')}}
 {{if(isBlank(cells['subject_topic_LCSH2'].value), '', '<subject authority="lcsh" valueURI="' + cells['LCSH2_URI'].value + '"><topic>' + cells['subject_topic_LCSH2'].value + '</topic></subject>')}}
