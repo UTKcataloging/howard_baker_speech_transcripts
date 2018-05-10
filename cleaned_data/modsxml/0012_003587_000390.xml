@@ -11,7 +11,14 @@
    <abstract>Transcript of a statement by Howard H. Baker, Jr. addressing congressional oversight and re-examining the triggers of Watergate.</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">September-October 1974</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1974-09/1974-10</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="start">1974-09</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="end">1974-10</dateCreated>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79056560">San Diego (Calif.)</placeTerm>
       </place>

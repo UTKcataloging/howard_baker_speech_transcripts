@@ -11,7 +11,14 @@
    <abstract>Transcript of a statement by Howard H. Baker, Jr. discussing the Youth in Government program in Tennessee.</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">1967-1968</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1967/1968</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="start">1967</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="end">1968</dateCreated>
    </originInfo>
    <physicalDescription>
       <extent>4 pages</extent>

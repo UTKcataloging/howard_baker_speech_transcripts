@@ -11,7 +11,14 @@
    <abstract>Transcript of a speech by Howard H. Baker, Jr. to the President and the Senate on nuclear issues.</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">1977-1978</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1977/1978</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="start">1977</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="end">1978</dateCreated>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79018774">Washington (D.C.)</placeTerm>
       </place>

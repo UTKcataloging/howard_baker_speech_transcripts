@@ -11,7 +11,14 @@
    <abstract>Transcript of a speech by Howard H. Baker, Jr. addressing the President and Congress on being a citizen legislator.</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">1960-1990</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1960/1990</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="start">1960</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="end">1990</dateCreated>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79018774">Washington (D.C.)</placeTerm>
       </place>

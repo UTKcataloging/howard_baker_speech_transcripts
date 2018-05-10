@@ -11,7 +11,14 @@
    <abstract>Transcript of remarks by Howard H. Baker, Jr. addressing The Environmental Action Council of Memphis describing the United Nations Conference on the Human Environment in Stockholm.</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">June 1972-1973</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1972-06/1973-12</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="start">1972-06</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="end">1973-12</dateCreated>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n78095779">Memphis (Tenn.)</placeTerm>
       </place>

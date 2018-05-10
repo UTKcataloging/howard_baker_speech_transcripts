@@ -11,7 +11,7 @@
    <abstract>Transcript of a speech by Howard H. Baker, Jr. addressing Tennessee as host to the World's Fair.</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">May 1, 1982</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1982-05-01~</dateCreated>
+      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1982-05-01</dateCreated>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
       </place>

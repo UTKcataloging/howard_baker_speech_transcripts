@@ -11,7 +11,14 @@
    <abstract>Transcript of a speech by Howard H. Baker, Jr. upon his retirement as "President."</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">1980s</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1980/1989</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="start">1980</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="end">1989</dateCreated>
    </originInfo>
    <physicalDescription>
       <extent>5 pages</extent>

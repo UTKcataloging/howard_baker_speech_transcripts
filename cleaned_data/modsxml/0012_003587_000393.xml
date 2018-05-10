@@ -11,7 +11,14 @@
    <abstract>Transcript of a statement by Howard H. Baker, Jr. asking people to take into consideration the problems of the physically handicapped.</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">1960-1990</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1960/1990</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="start">1960</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="end">1990</dateCreated>
    </originInfo>
    <physicalDescription>
       <extent>2 pages</extent>

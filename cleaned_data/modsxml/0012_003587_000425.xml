@@ -11,7 +11,14 @@
    <abstract>Transcript of a statement by Howard H. Baker, Jr. addressing Republicans about Republican politics in the last year and the presidency of Jimmy Carter.</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">November-December 1978</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1978-11/1978-12</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="start">1978-11</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="end">1978-12</dateCreated>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79059755">Salt Lake City (Utah)</placeTerm>
       </place>

@@ -11,7 +11,14 @@
    <abstract>Transcript of a speech given by Howard Baker before Congress on revenue sharing.</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">1975-1976</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1975/1976</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="start">1975</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="end">1976</dateCreated>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79018774">Washington (D.C.)</placeTerm>
       </place>

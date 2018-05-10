@@ -11,7 +11,14 @@
    <abstract>Transcript of a statement by Howard H. Baker, Jr. discussing legislative and governmental policy. There is a Q and A after the statement discussing issues of election financing, Watergate, and the bombing of Cambodia.</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">March-August 1973</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1973-03/1973-08</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="start">1973-03</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="end">1973-08</dateCreated>
    </originInfo>
    <physicalDescription>
       <extent>26 pages</extent>

@@ -11,7 +11,14 @@
    <abstract>Transcript of a statement by Howard H. Baker, Jr. discussing the economic problems, budget controls, reconstruction of financial institutions, and inflation.</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">August-December 1973</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1973-08/1973-12</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="start">1973-08</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="end">1973-12</dateCreated>
    </originInfo>
    <physicalDescription>
       <extent>6 pages</extent>

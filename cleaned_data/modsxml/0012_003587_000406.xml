@@ -11,7 +11,14 @@
    <abstract>Transcript of a statement by Howard H. Baker, Jr. addressing the need to consider reforming campaign financing and the electoral process.</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">June 1972-October 1974</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1972-06/1974-10</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="start">1972-06</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="end">1974-10</dateCreated>
    </originInfo>
    <physicalDescription>
       <extent>4 pages</extent>

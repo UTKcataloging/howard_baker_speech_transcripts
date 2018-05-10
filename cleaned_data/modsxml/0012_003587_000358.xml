@@ -11,7 +11,14 @@
    <abstract>Transcript of a speech by Howard H. Baker, Jr. discussing foreign policy, government, and the Security Assistance and Arms Export Control Act of 1976. </abstract>
    <originInfo>
       <dateCreated qualifier="approximate">July-December 1976</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1976-07/1976-12</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="start">1976-07</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="end">1976-12</dateCreated>
    </originInfo>
    <physicalDescription>
       <extent>8 pages</extent>

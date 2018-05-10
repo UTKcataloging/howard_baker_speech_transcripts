@@ -11,7 +11,14 @@
    <abstract>Transcript of a statement by Howard H. Baker, Jr. discussing the state-by-state rundown of possible Republican seats to be won.</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">July-November 1974</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1974-07/1974-11</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="start">1974-07</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="end">1974-11</dateCreated>
    </originInfo>
    <physicalDescription>
       <extent>2 pages</extent>

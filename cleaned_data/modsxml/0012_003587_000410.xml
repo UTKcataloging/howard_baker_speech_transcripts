@@ -30,6 +30,12 @@
             valueURI="http://id.loc.gov/authorities/names/n79109786">
       <geographic>Knoxville (Tenn.)</geographic>
    </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2018047693">
+      <name>
+         <namePart>Evans, Dick, 1920-1973</namePart>
+      </name>
+   </subject>
    <name valueURI="http://id.loc.gov/authorities/names/n80015572">
       <namePart>Baker, Howard H., Jr. (Howard Henry), 1925-2014</namePart>
       <role>

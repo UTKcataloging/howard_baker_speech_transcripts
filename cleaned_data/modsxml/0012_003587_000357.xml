@@ -11,13 +11,13 @@
    <abstract>Transcript of a speech by Howard H. Baker, Jr. to the president and the Senate on the nomination of Joseph A. Califano to be Secretary of Health, Education, and Welfare.</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">January 1977</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1977-01~</dateCreated>
+      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1977-01</dateCreated>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79018774">Washington (D.C.)</placeTerm>
       </place>
    </originInfo>
    <physicalDescription>
-      <extent>1 pages</extent>
+      <extent>1 page</extent>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026671">speeches (documents)</form>
       <internetMediaType>image/jpeg</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>

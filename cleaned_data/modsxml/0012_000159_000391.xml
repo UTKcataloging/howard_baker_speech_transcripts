@@ -10,8 +10,8 @@
    </titleInfo>
    <abstract>Transcript of an address given by Howard Baker before the Michigan State Bar Association.</abstract>
    <originInfo>
-      <dateCreated qualifier="approximate">September 11, 1975</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1975?-09-11</dateCreated>
+      <dateCreated qualifier="questionable">September 11, 1975</dateCreated>
+      <dateCreated qualifier="questionable" encoding="edtf" keyDate="yes">1975-09-11</dateCreated>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n80046126">Michigan</placeTerm>
       </place>

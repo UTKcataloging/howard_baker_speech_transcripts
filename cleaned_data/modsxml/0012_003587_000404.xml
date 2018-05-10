@@ -11,7 +11,14 @@
    <abstract>Transcript of a statement by Howard H. Baker, Jr. proposing the Committee to modify a project regarding the Obion and Forked Deer Rivers.</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">1974-1976</dateCreated>
-      <dateCreated qualifier="approximate" encoding="edtf" keyDate="yes">1974/1976</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="start">1974</dateCreated>
+      <dateCreated qualifier="approximate"
+                   encoding="edtf"
+                   keyDate="yes"
+                   point="end">1976</dateCreated>
    </originInfo>
    <physicalDescription>
       <extent>3 pages</extent>
